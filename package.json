@@ -1,0 +1,14 @@
+{
+  "name": "amsxxx-botapi",
+  "version": "1.0.0",
+  "description": "Amsterdam Content TelegramBot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
